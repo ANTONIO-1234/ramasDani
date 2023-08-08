@@ -1,0 +1,1 @@
+Detectados varios errores en los archivos CSS de la carpeta común
